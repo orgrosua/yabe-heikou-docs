@@ -4,10 +4,10 @@ export default {
 	'navbar.a11yTitle': 'Top',
 	// Site settings
 	'site.title': 'Yabe Heikou Documentation',
-	'site.description': 'The Design Sets Manager Plugin for Oxygen.',
+	'site.description': 'The Parallel development support for Oxygen.',
 	'site.og.imageSrc': '/default-og-image.png',
 	'site.og.imageAlt':
-		'The Design Sets Manager Plugin for Oxygen — Yabe Heikou',
+		'The Parallel development support for Oxygen — Yabe Heikou',
 	// Left Sidebar
 	'leftSidebar.a11yTitle': 'Primary',
 	'leftSidebar.learnTab': 'Learn',
