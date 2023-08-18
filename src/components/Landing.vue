@@ -361,7 +361,7 @@
 
             <div class="flex flex:column align-items:center mb:16">
                 <div class="px:16 py:6 r:8 bg:crimson-95 fg:crimson-55 b:1|solid|crimson-65 text:center font:medium ls:2 lh:1.5">
-                    <i class="fa-solid fa-gift fg:crimson pr:6"></i> <span class="ls:1 font:bold">40% off</span> until <span class="ls:1 font:bold">Aug 20</span>, with code: <code class="font:extrabold bg:white">DIRGAHAYU-REPLUBIK-INDONESIA</code>
+                    <i class="fa-solid fa-gift fg:crimson pr:6"></i> <span class="ls:1 font:bold">40% off</span> until <span class="ls:1 font:bold">Aug 24</span>, with code: <code class="font:extrabold bg:white">DIRGAHAYU-REPLUBIK-INDONESIA</code>
                 </div>
             </div>
 
